@@ -1,0 +1,5 @@
+$kind: http-request
+name: base url test
+url: localhost:3000/users
+method: GET
+order: 2954096895081006
